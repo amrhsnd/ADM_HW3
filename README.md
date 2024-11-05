@@ -15,7 +15,7 @@ For this assignment, no dataset has been provided; instead, we need to build our
 The repository is organized as follows:
 - **[README.md](README.md)**: This document serves as an introduction to the repository, summarizing its contents
 
-- **[notebook.ipynb](notebook.ipynb)**: This Jupyter Notebook encompasses:
+- **[ADM_HW3.ipynb](ADM_HW3.ipynb)**: This Jupyter Notebook encompasses:
     1. A clear segmentation of inquiries related to **Data Collection**, along with its sub-sections, a **Bonus Question**, and an **Algorithmic Question**.
     2. Python code that executes various analyses and visualizes the findings.
     3. Markdown cells that offer thorough explanations of:
