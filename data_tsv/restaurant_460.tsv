@@ -1,0 +1,2 @@
+index	restaurantName	address	city	postalCode	country	priceRange	cuisineType	description	creditCards	facilitiesServices	phoneNumber	website
+460	Svevia	via Giudicato Vecchio 24	 Termoli	 86039	 Italy	€€	Mediterranean Cuisine	Housed in the wine cellars of a historic palazzo, this restaurant is a successful combination of the traditional and the modern. The cuisine focuses on the fish and seafood specialities of the Molise region, with only a few meat dishes on the menu.	['Amex', 'Dinersclub', 'Mastercard', 'Visa']	['Air conditioning']	+39 0875 550284	https://www.svevia.it/

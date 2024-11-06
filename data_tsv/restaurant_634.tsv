@@ -1,0 +1,2 @@
+index	restaurantName	address	city	postalCode	country	priceRange	cuisineType	description	creditCards	facilitiesServices	phoneNumber	website
+634	Osteria Manzoni	via Roma 87	 Barzago	 23890	 Italy	€€	Contemporary	This restaurant housed within a colourful, skilfully restored historic building with exposed stonework has a young friendly couple at the helm. The menu features delicious, refined and traditional Italian cuisine.	['Amex', 'Dinersclub', 'Mastercard', 'Visa']	['Air conditioning']	+39 031 414 3305	http://www.osteriamanzoni.it

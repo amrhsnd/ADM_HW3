@@ -1,0 +1,2 @@
+index	restaurantName	address	city	postalCode	country	priceRange	cuisineType	description	creditCards	facilitiesServices	phoneNumber	website
+1972	Osteria Europa	Corso IV Novembre 65/67	 Asiago	 36012	 Italy	€€	Venetian, Seasonal Cuisine	Despite its simple appearance, this restaurant housed in the hotel of the same name serves interesting, traditional cuisine which is well prepared and full of flavour.	['Amex', 'Dinersclub', 'Mastercard', 'Visa']	['Car park', 'Terrace']	+39 0424 462659	https://www.hoteleuroparesidence.it/cucina/osteria-europa/

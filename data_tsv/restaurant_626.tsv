@@ -1,0 +1,2 @@
+index	restaurantName	address	city	postalCode	country	priceRange	cuisineType	description	creditCards	facilitiesServices	phoneNumber	website
+626	Controcorrente	via XXV Luglio 23	 Morciano di Romagna	 47833	 Italy	€€	Seafood, Modern Cuisine	A welcoming restaurant with a rustic - style dining room, a young, lively atmosphere and beautifully prepared dishes with an emphasis on fish – it is difficult not to be impressed!	['Mastercard', 'Visa']	['Air conditioning', 'Terrace']	+39 0541 988036	https://www.ristorantecontrocorrente.com

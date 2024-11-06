@@ -1,0 +1,2 @@
+index	restaurantName	address	city	postalCode	country	priceRange	cuisineType	description	creditCards	facilitiesServices	phoneNumber	website
+410	La Terrazza	via Benaco 24	 Torbole	 38069	 Italy	€€	Seafood, Classic Cuisine	A small indoor dining room and a veranda with a lake view and sliding windows which open completely in summer provide the setting for regionally inspired dishes and lake specialities at this restaurant.	['Amex', 'Dinersclub', 'Mastercard', 'Visa']	['Air conditioning', 'Great view']	+39 0464 506083	https://www.allaterrazza.com/

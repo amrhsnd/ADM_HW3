@@ -1,0 +1,2 @@
+index	restaurantName	address	city	postalCode	country	priceRange	cuisineType	description	creditCards	facilitiesServices	phoneNumber	website
+1494	San Marco	via Alba 136	 Canelli	 14053	 Italy	€€	Piedmontese, Classic Cuisine	A long-established restaurant in the Asti region renowned for its regional cuisine, impeccable service and warm welcome. In the classic-style dining room the open fire is always lit, creating a cosy atmosphere.	['Amex', 'Dinersclub', 'Mastercard', 'Visa']	['Air conditioning', 'Interesting wine list']	+39 0141 823544	https://www.sanmarcoristorante.it

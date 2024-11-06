@@ -1,0 +1,2 @@
+index	restaurantName	address	city	postalCode	country	priceRange	cuisineType	description	creditCards	facilitiesServices	phoneNumber	website
+1518	Trattoria Toscana al Vecchio Forno	via Poliziano 18	 San Quirico d'Orcia	 53027	 Italy	€€	Tuscan, Traditional Cuisine	If you are looking for a place to eat that is centrally located and has good prices, you have found it. Captivating trattoria atmosphere. Pretty summer garden.	['Amex', 'Mastercard', 'Visa']	['Air conditioning', 'Terrace']	+39 0577 897380	https://www.palazzodelcapitano.com/tuscany/trattoria-toscana/

@@ -1,0 +1,2 @@
+index	restaurantName	address	city	postalCode	country	priceRange	cuisineType	description	creditCards	facilitiesServices	phoneNumber	website
+1782	Ahimè	via San Gervasio 6/e	 Bologna	 40121	 Italy	€€	Country cooking	Situated near the typical Mercato delle Erbe, Ahimé serves imaginative regional cuisine with a careful focus on seasonal, sustainably produced ingredients. Organic wines, plus service which is friendly yet at the same time professional add to its appeal.	['Amex', 'Mastercard', 'Visa']	['Air conditioning']	+39 051 498 3400	http://www.ahime.it
