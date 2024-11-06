@@ -19,12 +19,16 @@ class UrlMichelin(scrapy.Spider):
     # Define the start URLs for the spider to crawl
     start_urls = [f'https://guide.michelin.com/en/it/restaurants/page/{i}' for i in range(1, 103)] # The range is 1 to 102 because there are 102 pages of restaurants
 
+    def __init__(self, file_path):
+        super().__init__()
+        self.file_path = file_path
+
     def parse(self, response):
         #The selector "div.col-md-6 > div:nth-child(1) > a:nth-child(3)" is used to select the anchor element that contain the URL of the restaurants
         restaurants = response.css('div.col-md-6 > div:nth-child(1) > a:nth-child(3)')
 
         # Write the URLs to a .txt file
-        with open('urls.txt', 'a') as f:     
+        with open(self.file_path, 'a') as f:     
             for restaurant in restaurants:
                 # Get the full URL, joining the relative URL, stored in the href attribute of the anchor element, with the base URL of the website
                 url = response.urljoin(restaurant.attrib['href'])  
