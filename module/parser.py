@@ -70,10 +70,13 @@ def extract_info_from_html(file_path, index):
 
         # Extract phone number and website
         extra_info = soup.find_all('a', class_='link js-dtm-link')
-        extracted_info["website"] = extra_info[-1].get('href')
-        extracted_info["phoneNumber"] = extra_info[-2].get('href').replace('tel:', '')
+        if extra_info:
+            if extra_info[-1].get('href').startswith('tel:'):
+                extracted_info["phoneNumber"] = extra_info[-1].get('href').replace('tel:', '')
+            if extra_info[-2].get('href').startswith('tel:'):
+                extracted_info["website"] = extra_info[-1].get('href')
+                extracted_info["phoneNumber"] = extra_info[-2].get('href').replace('tel:', '')
         
-
         # Extract credit cards
         extracted_info["creditCards"] = []
         credit_cards_div = soup.findAll('div', class_='list--card')
