@@ -1,0 +1,2 @@
+index	restaurantName	address	city	postalCode	country	priceRange	cuisineType	description	creditCards	facilitiesServices	phoneNumber	website
+1528	Il Turacciolo	piazza Vittorio Emanuele II 4	 Andria	 76123	 Italy	€€	Apulian, Modern Cuisine	This informal wine bar in the town centre features paper tablecloths and a menu chalked up on two blackboards. Delicious regional cuisine, including the occasional dish with surprisingly modern and imaginative flavours.	['Amex', 'Mastercard', 'Visa']	['Air conditioning', 'Interesting wine list', 'Terrace']	+39 388 199 8889	

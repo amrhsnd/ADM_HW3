@@ -1,0 +1,2 @@
+index	restaurantName	address	city	postalCode	country	priceRange	cuisineType	description	creditCards	facilitiesServices	phoneNumber	website
+128	Da Severino il Vecchio - Di Luciano	largo Abruzzi 2, ang. via Piemonte 23	 Senorbì	 09040	 Italy	€	Mediterranean Cuisine	This historic restaurant now has new premises with a classic yet modern feel. Mediterranean cuisine with a traditional and regional influence.	['Mastercard', 'Visa']	['Air conditioning', 'Car park']	+39 070 980 4197	

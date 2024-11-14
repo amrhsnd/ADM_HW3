@@ -1,0 +1,2 @@
+index	restaurantName	address	city	postalCode	country	priceRange	cuisineType	description	creditCards	facilitiesServices	phoneNumber	website
+497	QB DuePuntoZero	via Pietro da Salò 23	 Salò	 25087	 Italy	€€	Modern Cuisine, Contemporary	On the lakefront facing the small port, this modern, simply styled restaurant has a pleasant area for summer dining. Contemporary cuisine made from carefully selected produce.	['Amex', 'Dinersclub', 'Mastercard', 'Visa']	['Air conditioning', 'Terrace', 'Wheelchair access']	+39 0365 520421	https://qbduepuntozero.it/

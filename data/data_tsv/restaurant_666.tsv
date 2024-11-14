@@ -1,0 +1,2 @@
+index	restaurantName	address	city	postalCode	country	priceRange	cuisineType	description	creditCards	facilitiesServices	phoneNumber	website
+666	Da Giovanni	via Cortina 1040	 Cortina Vecchia	 29010	 Italy	€€	Modern Cuisine	An excellent wine list and Piacenza dishes to taste at tables which are well spaced out in the large dining room with an elegant - rustic character, furnished in a pleasant fashion.	['Amex', 'Mastercard', 'Visa']	['Car park', 'Interesting wine list', 'Terrace']	+39 0523 948304	https://www.dagiovanniacortina.com

@@ -1,0 +1,2 @@
+index	restaurantName	address	city	postalCode	country	priceRange	cuisineType	description	creditCards	facilitiesServices	phoneNumber	website
+314	Le Baccanti	via Puccini 5	 Nola	 80035	 Italy	€€	Campanian, Classic Cuisine	Simple premises with two large windows overlooking its kitchens. It serves imaginative dishes where tradition and creativity become one. Informal service.	['Amex', 'Unionpay', 'Dinersclub', 'Discover', 'Jcb', 'Maestrocard', 'Mastercard', 'Visa']	['Air conditioning', 'Interesting wine list', 'Terrace']	+39 081 512 2117	

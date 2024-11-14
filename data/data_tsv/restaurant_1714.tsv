@@ -1,0 +1,2 @@
+index	restaurantName	address	city	postalCode	country	priceRange	cuisineType	description	creditCards	facilitiesServices	phoneNumber	website
+1714	Marina Grande	viale delle Regioni 4	 Amalfi	 84011	 Italy	€€€	Seafood, Classic Cuisine	Establishment on the beach: wooden floors and white chairs in the linear room, where you can sample the traditional country cuisine; pleasant terrace for service in summer.	['Mastercard', 'Visa']	['Air conditioning', 'Great view', 'Terrace']	+39 089 871129	https://www.ristorantemarinagrande.com/

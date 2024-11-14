@@ -1,0 +1,2 @@
+index	restaurantName	address	city	postalCode	country	priceRange	cuisineType	description	creditCards	facilitiesServices	phoneNumber	website
+1932	Miil	via Palade 1	 Cermes	 39010	 Italy	€€€	Contemporary, Modern Cuisine	Housed in a converted 15C mill on the Kränzelhof wine estate, this smart, elegant restaurant provides the backdrop for excellent, contemporary-style cuisine prepared wherever possible using locally sourced (and always top-quality) ingredients.	['Mastercard', 'Visa']	['Car park', 'Garden or park', 'Terrace']	+39 0473 563733	https://www.miil.it/it/home/

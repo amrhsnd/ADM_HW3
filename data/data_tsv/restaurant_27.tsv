@@ -1,0 +1,2 @@
+index	restaurantName	address	city	postalCode	country	priceRange	cuisineType	description	creditCards	facilitiesServices	phoneNumber	website
+27	Gimmy's	via privata Gemelli	 Aprica	 23031	 Italy	€€	Italian, Modern Cuisine	Traditional cuisine reinterpreted with a modern twist, with a whole page of the menu dedicated to meat dishes. Meals are served in an attractive Stube-style room with a warm mountain ambience.	['Amex', 'Dinersclub', 'Mastercard', 'Visa']	['Car park', 'Wheelchair access']	+39 0342 747048	https://www.hotelarisch.com/il-ristorante/

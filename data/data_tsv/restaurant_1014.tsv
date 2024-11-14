@@ -1,0 +1,2 @@
+index	restaurantName	address	city	postalCode	country	priceRange	cuisineType	description	creditCards	facilitiesServices	phoneNumber	website
+1014	Le Cedrare	stradone Roma 8	 Illasi	 37031	 Italy	€€	Creative, Contemporary	This restaurant is housed in the 18C Villa Perez - Pompei - Sagramoso, in a room once used as a conservatory for orange and lemon trees. It serves excellent, inventive and regional cuisine in a charming location.	['Amex', 'Mastercard', 'Visa']	['Air conditioning', 'Garden or park', 'Terrace']	+39 045 652 0719	https://www.lecedrare.it/

@@ -1,0 +1,2 @@
+index	restaurantName	address	city	postalCode	country	priceRange	cuisineType	description	creditCards	facilitiesServices	phoneNumber	website
+1446	Crotasc	via Don Primo Lucchinetti 63	 Mese	 23020	 Italy	€€	Cuisine from Valtellina, Modern Cuisine	Here one can choose between a smaller, typically mountain style dining room with stone paving and open fireplace and a larger room in contemporary rustic style. In summer one can dine on the terrace.	['Amex', 'Mastercard', 'Visa']	['Car park', 'Interesting wine list', 'Terrace']	+39 0343 41003	https://www.ristorantecrotasc.com

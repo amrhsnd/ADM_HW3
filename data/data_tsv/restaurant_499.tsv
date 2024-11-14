@@ -1,0 +1,2 @@
+index	restaurantName	address	city	postalCode	country	priceRange	cuisineType	description	creditCards	facilitiesServices	phoneNumber	website
+499	Taverna dei Caldora	piazza Umberto I 13	 Pacentro	 67030	 Italy	€	Cuisine from Abruzzo, Meats and Grills	Situated amid the maze of narrow streets in the old town of Pacentro and occupying the wine cellars of an imposing 16C palazzo, this restaurant celebrates regional cuisine in all its glory in specialities such as spaghetti with saffron and truffles.	['Amex', 'Mastercard', 'Visa']	['Air conditioning', 'Terrace']	+39 0864 41139	

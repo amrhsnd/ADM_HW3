@@ -1,0 +1,2 @@
+index	restaurantName	address	city	postalCode	country	priceRange	cuisineType	description	creditCards	facilitiesServices	phoneNumber	website
+214	L'Osteria H20	via Pergola 10	 Moniga del Garda	 25080	 Italy	€€€	Creative	This bright, minimalist - style restaurant is situated on the road but its dining room faces the lake. It serves imaginative and personalised cuisine with both fish and meat dishes on the menu.	['Amex', 'Dinersclub', 'Mastercard', 'Visa']	['Air conditioning', 'Car park', 'Great view', 'Terrace']	+39 0365 503225	https://www.losteriah2o.it

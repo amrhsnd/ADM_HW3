@@ -1,0 +1,2 @@
+index	restaurantName	address	city	postalCode	country	priceRange	cuisineType	description	creditCards	facilitiesServices	phoneNumber	website
+93	La Passion	via San Nicolò 5/b, Vandoies di Sopra	 Vintl	 39030	 Italy	€€	Classic Cuisine, Italian	A small, cosy, completely wood - panelled stube has been set up in this residential building. The menus are traditional but inventive.	['Amex', 'Mastercard', 'Visa']	['Air conditioning', 'Car park', 'Restaurant offering vegetarian menus', 'Terrace']	+39 0472 868595	https://www.lapassion.it/it/

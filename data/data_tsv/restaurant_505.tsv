@@ -1,0 +1,2 @@
+index	restaurantName	address	city	postalCode	country	priceRange	cuisineType	description	creditCards	facilitiesServices	phoneNumber	website
+505	Cibrèo	via A. Del Verrocchio 8 r	 Florence	 50122	 Italy	€€€	Tuscan, Classic Cuisine	This restaurant has an informal, fashionable atmosphere, with young, confident staff and fine, inventive cuisine inspired by traditional dishes.	['Amex', 'Dinersclub', 'Mastercard', 'Visa']	['Air conditioning', 'Interesting wine list', 'Wheelchair access']	+39 055 234 1100	https://www.cibreo.com/restaurant

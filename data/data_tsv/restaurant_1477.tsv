@@ -1,0 +1,2 @@
+index	restaurantName	address	city	postalCode	country	priceRange	cuisineType	description	creditCards	facilitiesServices	phoneNumber	website
+1477	Sale Grosso	vicolo De' Facchini 4/a	 Bologna	 40124	 Italy	€€	Mediterranean Cuisine	A simple, bistro - style restaurant serving well - prepared, mainly Mediterranean - style cuisine. Although fish and seafood dominate the menu, there are also a few vegetarian dishes and vegan specialities available.	['Amex', 'Mastercard', 'Visa']	['Air conditioning', 'Restaurant offering vegetarian menus', 'Terrace']	+39 051 231721	

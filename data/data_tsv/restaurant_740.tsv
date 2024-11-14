@@ -1,0 +1,2 @@
+index	restaurantName	address	city	postalCode	country	priceRange	cuisineType	description	creditCards	facilitiesServices	phoneNumber	website
+740	Zeb	via San Miniato 2r	 Florence	 50125	 Italy	€€	Farm to table, Traditional Cuisine	A new take on traditional cuisine in this unique restaurant in the delightful San Niccolò district. Diners sit side - by - side around a central table, as in a sushi bar, enjoying a selection of delicious homemade dishes.	['Mastercard', 'Visa']	['Air conditioning']	+39 055 234 2864	https://www.zebgastronomia.com/home/

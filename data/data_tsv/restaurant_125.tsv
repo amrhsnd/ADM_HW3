@@ -1,0 +1,2 @@
+index	restaurantName	address	city	postalCode	country	priceRange	cuisineType	description	creditCards	facilitiesServices	phoneNumber	website
+125	Cip's Club	isola della Giudecca 10	 Venice	 30133	 Italy	€€€€	Classic Cuisine	Elegant atmosphere, but informal in an establishment which offers a service overlooking the Giudecca canal in the summer; traditional meat and fish cuisine, with Venetian specialities.	['Amex', 'Mastercard', 'Visa']	['Air conditioning', 'Great view', 'Terrace']	+39 041 240801	https://www.belmond.com/it/dining/europe/italy/venice/cips-club/
