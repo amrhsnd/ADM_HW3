@@ -4,7 +4,7 @@ import csv
 
 def extract_info_from_html(file_path, index):
     """
-    Extracts the required information from an HTML file.
+    Extracts the required information from an Michelin Restaurant HTML file.
 
     Args:
         file_path (str): The path to the HTML file.
@@ -41,14 +41,14 @@ def extract_info_from_html(file_path, index):
         
         info_div = soup.findAll('div', class_='data-sheet__block--text')
         # Extract the address, city, postal code, country
-        address = info_div[0].text.strip().split(',')
+        address = info_div[0].text.replace('\n', ' ').strip().split(',') 
 
         # Reverse the address list and split it into 4 parts (Country, Postal Code, City, Address)
         address = (','.join(address[::-1])).split(',',3)
         extracted_info["address"] = ','.join((address[3].split(','))[::-1])
-        extracted_info["city"] = address[2]
-        extracted_info["postalCode"] = address[1]
-        extracted_info["country"] = address[0]
+        extracted_info["city"] = address[2].strip()
+        extracted_info["postalCode"] = address[1].strip()
+        extracted_info["country"] = address[0].strip()
 
 
         # Extract price range and cuisine type

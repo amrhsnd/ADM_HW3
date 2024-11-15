@@ -1,2 +1,2 @@
 index	restaurantName	address	city	postalCode	country	priceRange	cuisineType	description	creditCards	facilitiesServices	phoneNumber	website
-1900	Trattoria Rigoletto	via Fontane 54/b	 Brescia	 25133	 Italy	€€€	Seafood, Italian	A simple environment, manages to create an interesting cuisine. The menu is quite extensive, the dishes are authentic and the atmosphere is welcoming.	['Mastercard', 'Visa']	['Air conditioning', 'Wheelchair access']	+39 030 200 4140	
+1900	Trattoria Rigoletto	via Fontane 54/b	Brescia	25133	Italy	€€€	Seafood, Italian	A simple environment, manages to create an interesting cuisine. The menu is quite extensive, the dishes are authentic and the atmosphere is welcoming.	['Mastercard', 'Visa']	['Air conditioning', 'Wheelchair access']	+39 030 200 4140	

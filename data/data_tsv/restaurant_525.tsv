@@ -1,2 +1,2 @@
 index	restaurantName	address	city	postalCode	country	priceRange	cuisineType	description	creditCards	facilitiesServices	phoneNumber	website
-525	Hanswirt	piazza Gerold 3	 Rablà	 39020	 Italy	€€	Regional Cuisine, Classic Cuisine	Situated in an old farmstead, this elegant and pleasant establishment has a warm and typically Tyrolese atmosphere.	['Mastercard', 'Visa']	['Car park', 'Terrace', 'Wheelchair access']	+39 0473 967148	https://www.hanswirt.com
+525	Hanswirt	piazza Gerold 3	Rablà	39020	Italy	€€	Regional Cuisine, Classic Cuisine	Situated in an old farmstead, this elegant and pleasant establishment has a warm and typically Tyrolese atmosphere.	['Mastercard', 'Visa']	['Car park', 'Terrace', 'Wheelchair access']	+39 0473 967148	https://www.hanswirt.com
