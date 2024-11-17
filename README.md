@@ -22,6 +22,8 @@ The repository is organized as follows:
     - The analytical methodologies used, along with the underlying assumptions.
     - The findings derived from the data analyzed
     - The final conclusions and insights.
+- ## Interactive Map Visualization
+     To explore interactive maps, click on the following link:[View Interactive Maps on Google Colab](https://colab.research.google.com/drive/10lBmmcZS9xB0-NLOv_e_Rdigiitcm1cY?usp=sharing)
 
 *Project sections in details*:
 - **Data Collection**: This section is dedicated to the gathering of data.
