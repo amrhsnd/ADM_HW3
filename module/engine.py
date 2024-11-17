@@ -70,7 +70,7 @@ def vectorize_documents(num_doc, vocabulary, inverted_tf_idf):
     
     return tf_idf_matrix
 
-def compute_cosine_similarity(query_vector, tf_idf_matrix):
+def compute_cosine_similarity(query_vector, tf_idf_matrix, row=None):
     """
     Compute the cosine similarity between the query vector and each document vector in the TF-IDF matrix.
 
@@ -78,7 +78,9 @@ def compute_cosine_similarity(query_vector, tf_idf_matrix):
         query_vector (dict):
             A dictionary where the keys are term IDs and the values are the term frequencies in the query.
         tf_idf_matrix (numpy.ndarray):
-            A matrix where each row represents a document vector and each column represents a term vector.
+            A matrix where each row represents a document vector and each column represents a term vector. 
+        row (list):
+            A list of rows IDs for which cosine similarity is to be calculated. If not specified, all rows will be selected.
 
     Returns:
         dict
@@ -86,14 +88,25 @@ def compute_cosine_similarity(query_vector, tf_idf_matrix):
             the query vector and the document vector.
         
     """
-        
-    # Compute the cosine similarity between the query vector and each document vector
+    
     cosine_similarities = {}
-    for restaurant_id, doc_vector in enumerate(tf_idf_matrix):
-        numerator = 0.0
-        for term_id, tf in list(query_vector.items()):
-            numerator += tf * doc_vector[term_id]
-        denominator = np.linalg.norm(list(query_vector.values())) * np.linalg.norm(doc_vector)
-        cosine_similarities[restaurant_id+1] = numerator / denominator if denominator != 0 else 0.0 # Adjust restaurant_id by adding 1
+
+    if not row:     
+        # Compute the cosine similarity between the query vector and each document vector
+        for restaurant_id, doc_vector in enumerate(tf_idf_matrix):
+            numerator = 0.0
+            for term_id, tf in list(query_vector.items()):
+                numerator += tf * doc_vector[term_id]
+            denominator = np.linalg.norm(list(query_vector.values())) * np.linalg.norm(doc_vector)
+            cosine_similarities[restaurant_id+1] = numerator / denominator if denominator != 0 else 0.0 # Adjust restaurant_id by adding 1
+    else:
+        for restaurant_id in row:
+            doc_vector = tf_idf_matrix[restaurant_id-1] #Adjust restaurant_id
+            numerator = 0.0
+            for term_id, tf in list(query_vector.items()):
+                numerator += tf * doc_vector[term_id]
+            denominator = np.linalg.norm(list(query_vector.values())) * np.linalg.norm(doc_vector)
+            cosine_similarities[restaurant_id] = numerator / denominator if denominator != 0 else 0.0 # Adjust restaurant_id by adding 1
+
     
     return cosine_similarities
