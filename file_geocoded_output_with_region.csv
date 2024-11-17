@@ -202,7 +202,7 @@ id;address;region;latitude;longitude
 201;via Dronero 8/c;Piedmont;44.3927474;7.5496191
 202;corte Coppo, sestiere San Marco 4346/a;Veneto;45.4371;12.3327
 203;via Buffolareccia 14;Marche;43.4403344;13.6207685
-204;via Emilia fraz. Rampina 3 ang. via Rocca Brivio;Lombardy;45.39574;9.28757
+204;via Emilia fraz. Rampina 3  ang. via Rocca Brivio;Lombardy;45.39574;9.28757
 205;via Cavour 7;Lombardy;45.4277924;9.062862
 206;via della Cervia 3;Tuscany;43.8426777;10.5015972
 207;via Matteotti 66;Emilia-Romagna;44.7113762;11.3059596
@@ -808,7 +808,7 @@ id;address;region;latitude;longitude
 807;via degli Anelli 19;Marche;42.9511499;13.8754998
 808;via Cima Tosa 80;Trentino – Alto Adige/Südtirol;46.2348274;10.8243285
 809;strada statale 106;Calabria;38.3212;16.3969
-810;via Novi 2, loc. Pietra dei Correnti, bivio Novi Velia;Campania;40.22262;15.286
+810;via Novi 2, loc. Pietra dei Correnti, bivio   Novi Velia;Campania;40.22262;15.286
 811;via Bersano 59/b;Emilia-Romagna;44.9109;9.518
 812;via XXIV Maggio 5;Lombardy;45.6884356;10.6640681
 813;via Deserto 1/a;Campania;40.6141927;14.3608421
